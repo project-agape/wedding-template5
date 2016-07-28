@@ -1,0 +1,29 @@
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: /wedding-template5/
+url: crux-wedding.github.io
+
+
+# Build settings
+markdown: kramdown
+
+cover:
+  couple-name: "juliet<br/>&<br/>romeo"
+  wedding-date: "01 - 02 - 17"
+
+our-story:
+    title: Our Story
+    image: "content-image.jpg"
+    description: Cras varius, nunc et maximus ullamcorper, tellus tellus posuere ipsum, ac tincidunt orci tortor id sapien. Vivamus ultrices purus id nisl volutpat, et placerat nisi ultricies. Integer at vehicula elit. Ut non velit non dui finibus finibus. Duis feugiat ut est nec auctor. Nulla vestibulum, ante sit amet rutrum ornare, turpis nunc laoreet felis, quis pellentesque
+
+wedding-details:
+    title: Event Details
+    image: "content-image.jpg"
+    description: Cras varius, nunc et maximus ullamcorper, tellus tellus posuere ipsum, ac tincidunt orci tortor id sapien. Vivamus ultrices purus id nisl volutpat, et placerat nisi ultricies. Integer at vehicula elit. Ut non velit non dui finibus finibus. Duis feugiat ut est nec auctor. Nulla vestibulum, ante sit amet rutrum ornare, turpis nunc laoreet felis, quis pellentesque
+
+
