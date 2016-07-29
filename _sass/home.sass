@@ -339,7 +339,7 @@ html,body
   #cover
     .container
       .intro-text-container
-        padding: 180px
+        padding: 180px 0
         background-size: 70%
         .intro-header
           .into-header-text
@@ -348,6 +348,19 @@ html,body
           .intro-date
             top: 50px
             font-size: 1.8em
+
+@media (max-width: $screen-md-max)
+  #cover
+    .container
+      .intro-text-container
+        background-size: 80%
+
+@media (max-width: $screen-sm-max)
+  #cover
+    .container
+      .intro-text-container
+        background-size: 100%
+
 
 
 
